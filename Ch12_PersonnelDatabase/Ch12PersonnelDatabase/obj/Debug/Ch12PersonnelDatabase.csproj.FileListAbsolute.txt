@@ -1,0 +1,12 @@
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\bin\Debug\Personnel.mdf
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\bin\Debug\Personnel_log.ldf
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\bin\Debug\Ch12PersonnelDatabase.exe.config
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\bin\Debug\Ch12PersonnelDatabase.exe
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\bin\Debug\Ch12PersonnelDatabase.pdb
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.Form1.resources
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.exe
+C:\Users\zacar\source\repos\Ch12PersonnelDatabase\Ch12PersonnelDatabase\obj\Debug\Ch12PersonnelDatabase.pdb
