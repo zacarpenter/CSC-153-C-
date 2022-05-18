@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.TotalSales.resources
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\bin\Debug\Ch7_TotalSales.exe.config
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\bin\Debug\Ch7_TotalSales.exe
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\bin\Debug\Ch7_TotalSales.pdb
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.exe
+C:\Users\zacar\source\repos\Ch7_TotalSales\Ch7_TotalSales\obj\Debug\Ch7_TotalSales.pdb

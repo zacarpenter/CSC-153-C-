@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\bin\Debug\Ch7_TicTacToeSim.exe.config
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\bin\Debug\Ch7_TicTacToeSim.exe
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\bin\Debug\Ch7_TicTacToeSim.pdb
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.Form1.resources
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.exe
+C:\Users\zacar\source\repos\Ch7_TicTacToeSim\Ch7_TicTacToeSim\obj\Debug\Ch7_TicTacToeSim.pdb
