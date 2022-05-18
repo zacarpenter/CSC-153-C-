@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\bin\Debug\Ch9_DrinkVendingMachineSim.exe.config
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\bin\Debug\Ch9_DrinkVendingMachineSim.exe
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\bin\Debug\Ch9_DrinkVendingMachineSim.pdb
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.Form1.resources
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.exe
+C:\Users\zacar\source\repos\Ch9_DrinkVendingMachineSim\Ch9_DrinkVendingMachineSim\obj\Debug\Ch9_DrinkVendingMachineSim.pdb
