@@ -1,0 +1,11 @@
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\bin\Debug\Ch10CarClass.exe.config
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\bin\Debug\Ch10CarClass.exe
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\bin\Debug\Ch10CarClass.pdb
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.Form1.resources
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.Form2.resources
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.exe
+C:\Users\zacar\source\repos\Ch10CarClass\Ch10CarClass\obj\Debug\Ch10CarClass.pdb
