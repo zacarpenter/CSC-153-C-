@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\bin\Debug\Ch5_DiceSimulator.exe.config
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\bin\Debug\Ch5_DiceSimulator.exe
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\bin\Debug\Ch5_DiceSimulator.pdb
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.diceSimulator.resources
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.exe
+C:\Users\zacar\source\repos\Ch5_DiceSimulator\Ch5_DiceSimulator\obj\Debug\Ch5_DiceSimulator.pdb

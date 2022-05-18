@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\bin\Debug\Ch4_DistanceConverter.exe.config
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\bin\Debug\Ch4_DistanceConverter.exe
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\bin\Debug\Ch4_DistanceConverter.pdb
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.distanceConverter.resources
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.Properties.Resources.resources
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.exe
+C:\Users\zacar\source\repos\Ch4_DistanceConverter\Ch4_DistanceConverter\obj\Debug\Ch4_DistanceConverter.pdb
